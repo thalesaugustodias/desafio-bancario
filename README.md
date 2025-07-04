@@ -180,18 +180,18 @@ Consulta saldo da conta corrente
 
 ### Executar API (Questão 5)
 ```bash
-cd DesafioTecnico.API
+cd DesafioTecnico.Questao5.API
 dotnet run
 ```
 
 ### Executar Testes
 ```bash
-cd DesafioTecnico.Tests
+cd DesafioTecnico.Questao5.Teste
 dotnet test
 ```
 
 ### Acessar Swagger
-- URL: `http://localhost:5000` (ou porta configurada)
+- URL: `http://localhost:5001`
 - Documentação interativa completa
 
 ## Estrutura de Dados
